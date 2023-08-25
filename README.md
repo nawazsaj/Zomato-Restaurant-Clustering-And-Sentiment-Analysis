@@ -1,2 +1,3 @@
 # Zomato-Restaurant-Clustering-And-Sentiment-Analysis
-Unsupervised ML Project 
+# Unsupervised ML Project 
+# The Zomato clustering project aims to analyze restaurant data in various cities of India to cluster them into different segments and analyze customer sentiments through reviews. The project intends to help customers find the best restaurant in their locality and assist the company in improving areas where they lack. By using cost vs. benefit analysis, valuable information about cuisine and pricing can be identified. Additionally, the metadata of reviewers can be used to identify industry critics.![image](https://github.com/nawazsaj/Zomato-Restaurant-Clustering-And-Sentiment-Analysis/assets/120582304/169f9f95-7cd5-4f39-bc4e-f2d5340d50cc)
